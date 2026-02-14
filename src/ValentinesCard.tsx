@@ -1,5 +1,3 @@
-// Home page are of the web app
-import React from 'react'
 import CardContainer from './card-components/CardContainer';
 
 const ValentinesCard = () => {
